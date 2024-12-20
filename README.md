@@ -23,4 +23,4 @@ Couleurs :
 Typographie :
   Roboto
 
-<img src="Page.png">
+<img src="page.png">
